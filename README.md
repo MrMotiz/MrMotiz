@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Web Developer focused on learning every day</h3>
+<h3 align="center">Software Developer focused on learning every day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmotiz&label=Profile%20views&color=0e75b6&style=flat" alt="mrmotiz" /> </p>
 
